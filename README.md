@@ -13,7 +13,7 @@ Todos are made using Redux. Also, redux is used in this project to manage 'logge
 
 ## Try it for yourself. Proper data for logging in is: username: 'admin', password: 'password'
 
-[Link 1] (https://todoapp-5883e.web.app/)
-[Link 2] (https://todoapp-5883e.firebaseapp.com/)
+[Link 1](https://todoapp-5883e.web.app/)
+[Link 2](https://todoapp-5883e.firebaseapp.com/)
 
 ### There is form validation
