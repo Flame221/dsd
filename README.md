@@ -5,12 +5,15 @@ Was used Chakra UI.
 
 ## Private Routes
 
-If you want to route to out todo app first you need is log in
+If you want to route into todo app first you need is be logged in.
 
 ## Redux to manage our data
 
-Todos are made using the Redux. Also, redux is used in this project to menage our 'Logged in' state.
+Todos are made using Redux. Also, redux is used in this project to manage 'logged in' state.
 
 ## Try it for yourself. Proper data for logging in is: username: 'admin', password: 'password'
 
-### Form validation
+[Link 1] (https://todoapp-5883e.web.app/)
+[Link 2] (https://todoapp-5883e.firebaseapp.com/)
+
+### There is form validation
